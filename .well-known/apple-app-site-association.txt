@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7V62K8VW46.com.ShopPeer",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
